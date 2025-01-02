@@ -111,7 +111,7 @@ sudo wee_reports
 For weewx 5.x.x and later, use
 
 ```
-sudo weectl report run
+weectl report run
 ```
 
 7) Browse to your website to see the skin. It may be in a belchertown subdirectory.
